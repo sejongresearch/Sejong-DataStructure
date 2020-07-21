@@ -1,7 +1,7 @@
 
 ## 데이터구조 / DataStructure
 - 세종대학교 소프트웨어융합대학 데이터구조 강의 모음
-- [문제풀이연습 OJ]((http://server.rcv.sejong.ac.kr/)) 
+- [문제풀이연습 OJ](http://server.rcv.sejong.ac.kr/)
 
 ## 2020년 온라인 강의 모음
 - [유투브 강의보러 가기](https://www.youtube.com/playlist?list=PL1xKqHsVFgvkjsEOlTU-h7HAOmD1Bpadd)
