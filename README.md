@@ -4,7 +4,7 @@
 - [문제풀이연습 OJ]((http://server.rcv.sejong.ac.kr/)) 
 
 ## 2020년 온라인 강의 모음
-- [유투브](https://www.youtube.com/playlist?list=PL1xKqHsVFgvkjsEOlTU-h7HAOmD1Bpadd)
+- [유투브 강의보러 가기](https://www.youtube.com/playlist?list=PL1xKqHsVFgvkjsEOlTU-h7HAOmD1Bpadd)
   - 구독, 좋아요!!! 클릭!!
 
 ## 지난강의 노트 모음 
